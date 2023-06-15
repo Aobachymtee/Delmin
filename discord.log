@@ -1,0 +1,142 @@
+[22:46:24 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[22:46:24 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[22:46:25 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205797.
+[22:46:29 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: 7918ee7a3d3c8542adf1a4e07de815ad).
+[22:46:29 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[22:46:29 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[22:46:29 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 57.29 seconds.
+[22:46:40 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[22:46:50 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[22:47:00 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 667595708651536385.
+[22:47:10 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 841696832358842399.
+[22:47:20 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 1058299698261262448.
+[22:48:04 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[22:48:04 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[22:48:05 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205797.
+[22:48:09 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: 123a97a94de9f1d55438544bcf5db423).
+[22:48:09 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[22:48:09 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[22:48:09 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 57.15 seconds.
+[22:48:20 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[22:48:30 15-06-2023] [INFO    ] discord.gateway: Gateway has successfully RESUMED session 123a97a94de9f1d55438544bcf5db423.
+[22:48:30 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[22:49:03 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[22:49:03 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[22:49:04 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205797.
+[22:49:07 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: cb668d70e6c2c798e3538c8ae9d109ba).
+[22:49:07 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[22:49:07 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[22:49:07 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 57.80 seconds.
+[22:49:18 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[22:49:28 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[22:49:38 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 667595708651536385.
+[22:49:48 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 841696832358842399.
+[22:49:58 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 1058299698261262448.
+[22:50:44 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[22:50:44 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[22:50:45 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205797.
+[22:50:48 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: 32793eba4032e78a84968373a8262dd2).
+[22:50:48 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[22:50:48 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[22:50:48 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 58.12 seconds.
+[22:50:59 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[22:51:09 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[22:51:19 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 667595708651536385.
+[22:51:29 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 841696832358842399.
+[22:51:39 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 1058299698261262448.
+[22:55:22 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[22:55:22 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[22:55:23 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205797.
+[22:55:26 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: c7647af124d61e153c7087204c95062c).
+[22:55:26 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[22:55:27 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[22:55:27 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 57.55 seconds.
+[22:55:38 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[22:55:48 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[22:55:58 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 667595708651536385.
+[22:56:08 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 841696832358842399.
+[22:56:18 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 1058299698261262448.
+[23:02:43 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[23:02:43 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[23:02:44 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205797.
+[23:02:48 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: 0cac424841217ebc3ef25052ae24e2f5).
+[23:02:48 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[23:02:48 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[23:02:48 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 57.51 seconds.
+[23:02:59 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[23:03:09 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[23:03:19 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 667595708651536385.
+[23:03:29 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 841696832358842399.
+[23:03:39 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 1058299698261262448.
+[23:14:53 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[23:14:53 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[23:14:55 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205806.
+[23:14:58 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: c6e11c9c39264b7fe744e9f5ea5254d1).
+[23:14:58 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[23:14:58 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[23:14:58 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 57.92 seconds.
+[23:15:09 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[23:15:19 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[23:15:29 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 667595708651536385.
+[23:15:39 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 841696832358842399.
+[23:15:49 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 1058299698261262448.
+[23:35:40 15-06-2023] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported.
+[23:35:40 15-06-2023] [INFO    ] discord.client: Logging in using static token.
+[23:35:42 15-06-2023] [INFO    ] discord.http: Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36, build number 205806.
+[23:35:45 15-06-2023] [INFO    ] discord.gateway: Connected to Gateway (Session ID: ea04f628d33a50a475e1af3420611a36).
+[23:35:46 15-06-2023] [ERROR   ] discord.client: Ignoring exception in on_connect
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 507, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\admin\OneDrive - Đại học Thủ Dầu Một\Desktop\Aegisub\no idea\cogs\events.py", line 20, in on_connect
+    await self.bot.full_banner()
+TypeError: object NoneType can't be used in 'await' expression
+[23:35:46 15-06-2023] [WARNING ] discord.state: Member list scraping failed for 365880233464954881 (Failed to automatically choose channels; please specify them manually).
+[23:35:46 15-06-2023] [WARNING ] discord.gateway: Gateway is ratelimited, waiting 57.34 seconds.
+[23:35:57 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 920526762130161696.
+[23:36:07 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 838378318247231529.
+[23:36:17 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 667595708651536385.
+[23:36:27 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 841696832358842399.
+[23:36:37 15-06-2023] [WARNING ] discord.state: Timed out waiting for member list subscriptions for guild_id 1058299698261262448.
